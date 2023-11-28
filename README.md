@@ -1,3 +1,4 @@
+Note: This fork is to make the agent play reverse tic tac toe. Its goal is to make itself lose as fast as it can.
 ![LastUpdate](https://img.shields.io/github/last-commit/IndieCoderMM/tictactoe-ai)
 [![Forks](https://img.shields.io/github/forks/IndieCoderMM/tictactoe-ai)](https://github.com/IndieCoderMM/tictactoe-ai/network/members)
 ![Stars](https://img.shields.io/github/stars/IndieCoderMM/tictactoe-ai)
